@@ -1,6 +1,8 @@
 # Student Fitness Training Session Scheduler
 **Date:**  September 2019 - tba
+
 **Organization:** Penn State University
+
 **Project Members:** Myself, and Dave McLaughlin (resident web developer at Penn State York)
 
 ## Problem Description
