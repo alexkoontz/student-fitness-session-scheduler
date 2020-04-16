@@ -5,6 +5,8 @@
 
 **Project Members:** Myself, and Dave McLaughlin (resident Web Developer at Penn State York)
 
+![](https://github.com/alexkoontz/student-fitness-session-scheduler/blob/master/rdme_src/fitness_site_1.png)
+
 ## Problem Description
 At Penn State York there was a need for a web application that would allow students to schedule a 30 or 60 minute session with the campus' fitness instructor.  The orginal way of scheduling was with pen and paper, which was antequated and made it difficult for students to sign up, cancel, and change the sessions they would like to attend.  The web application would allow the fitness instructor to keep up to date with who has scheduled a session and hopefully improve the turnout of students due to the ease of signing up through a website.
 
