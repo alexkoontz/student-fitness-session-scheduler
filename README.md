@@ -17,7 +17,7 @@ Dave McLaughlin initiated the project, and suggested that we create a web applic
 
 ### Phase 1 of Development (September - October 2019)
 
-Dave was able to set up a mySQL database server and an PHP-enabled Apache webserver for us to use.  These were both hosted on a Linux server owned and operated by the University.  Our front-end was setup to utilize the Bootstrap 4 framework.  The bulk of the work for this project was in PHP.  Our initial step was to make sure we could query and modify our database.  After that we integrated the University's WebAcess system, which is a universal login system that allows us to know which student is signed in and keep access to the website restritcted to Penn State students only.  Once that was established we wrote some PHP algorithms to display sessions within a date range of two weeks out.  The final front-end design was completed by Dave.  
+Dave was able to set up a mySQL database server and an PHP-enabled Apache webserver for us to use.  These were both hosted on a Linux server owned and operated by the University.  Our front-end was setup to utilize the Bootstrap 4 framework.  The bulk of the work for this project was in PHP.  Our initial step was to make sure we could query and modify our database.  After that we integrated the University's WebAccess system, which is a universal login system that allows us to know which student is signed in and keep access to the website exclusive to Penn State students.  Once that was established we wrote some PHP algorithms to display sessions within a date range of two weeks out.  The final front-end design was completed by Dave.  
 
 ### Phase 2 of Development (tba)
 
