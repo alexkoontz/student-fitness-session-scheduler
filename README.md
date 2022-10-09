@@ -1,5 +1,5 @@
 # Student Fitness Training Session Scheduler
-**Date:**  September 2019 - Ongoing
+**Date:**  September 2019
 
 **Organization:** Penn State University
 
